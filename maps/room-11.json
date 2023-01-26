@@ -3,7 +3,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "room-11-chunk-1-aaca4ca2.png",
+      "image": "room-11-chunk-1-ec7bab5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29,7 +29,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "room-11-chunk-2-aaca4ca2.png",
+      "image": "room-11-chunk-2-ec7bab5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -44,7 +44,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "room-11-chunk-3-aaca4ca2.png",
+      "image": "room-11-chunk-3-ec7bab5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -59,7 +59,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "room-11-chunk-4-aaca4ca2.png",
+      "image": "room-11-chunk-4-ec7bab5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -74,7 +74,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "room-11-chunk-5-aaca4ca2.png",
+      "image": "room-11-chunk-5-ec7bab5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -89,7 +89,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "room-11-chunk-6-aaca4ca2.png",
+      "image": "room-11-chunk-6-ec7bab5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -104,7 +104,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "room-11-chunk-7-aaca4ca2.png",
+      "image": "room-11-chunk-7-ec7bab5d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -119,7 +119,7 @@
     {
       "columns": 14,
       "firstgid": 1793,
-      "image": "room-11-chunk-8-aaca4ca2.png",
+      "image": "room-11-chunk-8-ec7bab5d.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
@@ -4121,7 +4121,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "hope-brain-trust.json#entry-room-11"
+          "value": "https://play.workadventu.re/_/bi2h7qgc31/100-roads.github.io/HopeBrainTrust/hope-brain-trust.json#entry-room-11"
         }
       ],
       "visible": true,
